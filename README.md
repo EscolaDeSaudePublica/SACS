@@ -1,2 +1,2 @@
-# selecoes
-Repositório do sistema de seleções da ESP
+# Sistema de Seleções
+Repositório do sistema de seleções da ESP.
